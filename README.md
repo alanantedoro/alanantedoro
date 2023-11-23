@@ -10,8 +10,3 @@
 ---
 
 <img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alanantedoro&show_icons=true&hide_border=true" />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/alanantedoro/count.svg" />
-</p>
