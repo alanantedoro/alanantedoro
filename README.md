@@ -4,8 +4,8 @@ Find me on [Linkedin](https://www.linkedin.com/in/alan-antedoro-147631195/)!
 
 ## About me.
 
-- 🌱 I’m currently learning **Kotlin**
-- 💬 Ask me about **Java, JavaScript, Vue**
+- 🌱 I’m currently learning **Go**
+- 💬 Ask me about **Java, Kotlin, JavaScript, Vue**
 - 📫 How to reach me: [@alanantedoro](https://www.instagram.com/alanantedoro/) on Instagram or email me at 📧 alanantedoro@gmail.com
 
 ---
