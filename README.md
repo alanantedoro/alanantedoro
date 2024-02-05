@@ -10,4 +10,6 @@ Find me on [Linkedin](https://www.linkedin.com/in/alan-antedoro-147631195/)!
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
 <img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alanantedoro&show_icons=true&hide_border=true" />
