@@ -10,6 +10,6 @@ Find me on [Linkedin](https://www.linkedin.com/in/alan-antedoro-147631195/)!
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanantedoro&layout=compact)](https://github.com/alanantedoro/github-readme-stats)
 
 <img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alanantedoro&show_icons=true&hide_border=true" />
